@@ -1,0 +1,239 @@
+body{
+	margin:0;
+}
+.top{
+	height:110px;
+}
+#circle{
+	font-size: 40px;
+	border:1px solid #4F93F1;
+	border-radius:100%;
+	width:60px;
+	background-color: #5094f1;
+	color:white;
+	text-align: center;
+	padding-top: 5px;
+	margin-left: 10%;
+	margin-top: 30px;
+}
+.top h1{
+	font-size: 36px;
+	font-weight: 100;
+	font-family: sans-serif;
+	margin-left: 16%;
+	margin-top: -50px;
+}
+.bars a{
+	text-decoration: none;
+	color: black;
+}
+.bars h2{
+	font-size: 21px;
+	font-weight: 100;
+}
+.bars h2:hover{
+	color:blue;
+}
+#home h2{
+	margin-left: 52%;
+	margin-top: -50px;
+}
+#Products h2{
+	margin-left: 58%;
+	margin-top: -41px;
+}
+#Service h2{
+	margin-left: 65%;
+	margin-top: -42px;
+}
+#Contact{
+	margin-left: 71%;
+	margin-top: -42px;
+}
+.md img{
+	width: 1349px;
+	height:450px;
+	margin-top: -35px;
+	opacity:.6;
+}
+.md h1{
+	color: #800000;
+	font-family: Impact;
+	font-weight: 100;
+	font-size: 36px;
+	margin-top: -350px;
+	margin-left: 45%;
+}
+.md p{
+	color: #800000;
+	font-family: Impact;
+	font-weight: 100;
+	font-size: 26px;
+	width: 250px;
+	line-height: 55px;
+	margin-left: 45.5%;
+	margin-top: -15px;
+}
+.button{
+	margin-left: 48%;
+	opacity: 0.9;
+	border:2px solid #5094f2;
+	width:95px;
+}
+.button button{
+	background: #5094f2;
+	height:30px;
+}
+.phone img{
+	width:200px;
+	height:400px;
+	margin-top: -300px;
+	margin-left: 15%;
+	opacity: 0.9;
+}
+.middle2{
+	height:700px;
+}
+.pencil{
+	height:150px;
+	width:150px;
+	border:1px solid #5094f2;
+	border-radius: 100%;
+	background: #5094f2;
+	margin-left: 22%;
+	margin-top: 90px;
+	text-align: center;
+}
+.pencil .fa{
+	font-size: 6em;
+	color: white;
+	margin-top: 22px;
+}
+.computer{
+	height:150px;
+	width:150px;
+	border:1px solid #d84748;
+	border-radius: 100%;
+	background: #d84748;
+	margin: -153px auto;
+	text-align: center;
+}
+.computer .fa{
+	font-size: 6em;
+	color: white;
+	margin-top: 30px;
+}
+.feed{
+	height:150px;
+	width:150px;
+	border:1px solid #ebbb10;
+	border-radius: 100%;
+	background: #ebbb10;
+	margin: -153px 66%;
+	text-align: center;
+}
+.feed .fa{
+	font-size: 6em;
+	color: white;
+	margin-top: 28px;
+}
+.word a{
+	text-decoration: none;
+	color: #5094f2;
+}
+.word h2{
+	font-size: 1.17em;
+	margin-top: 200px;
+	margin-left: 22%;
+}
+.word h3{
+	font-size: 1.17em;
+	margin: -36px 44%;
+	width:200px;
+}
+.word h4{
+	font-size: 1.17em;
+	margin: 15px 66%;
+	width:200px;
+}
+.word2 p{
+	text-align: center;
+	margin-left: 21%;
+	width:200px;
+	line-height: 1.5em;
+}
+.word3 p{
+	text-align: center;
+	margin-left: 43%;
+	width:200px;
+	line-height: 1.5em;
+	margin-top: -87px;
+}
+.word4 p{
+	text-align: center;
+	margin-left: 65%;
+	margin-top: -88px;
+	width:200px;
+	line-height: 1.5em;
+}
+.shop h1{
+	margin-left: 22%;
+	font-weight: 100;
+	font-family: Helvetica;
+	font-size: 36px;
+	margin-top: 90px;
+}
+.shop img{
+	width:320px;
+	height:260px;
+	margin-left: 21%;
+}
+.bullet h1{
+	font-family: Helvetica;
+	font-size: 28px;
+	font-weight: 100;
+	margin-left: 55%;
+	margin-top: -300px;
+}
+.bullet p{
+	margin-left: 55%;
+	margin-right: 22%;
+}
+
+
+.end{
+	width:1349px;
+	background-color:#2d2d2d;
+	margin-bottom: -30px;
+	margin-top: 20px;
+}
+.end h1{
+	font-size: 16px;
+	color:grey;
+	margin-left: 150px;
+	margin-top: 120px;
+}
+.facebook{
+	margin-left: 80%;
+	font-size: 2.5em;
+	margin-top: -23px;
+}
+.facebook .fa{
+	color:grey;
+}
+.twitter{
+	margin-left: 85%;
+	margin-top: -39px;
+	font-size: 2.5em;
+}
+.twitter .fa{
+	color: grey;
+}
+.instagram{
+	margin-left: 90%;
+	margin-top: -39px;
+	font-size: 2.5em;
+}
+.instagram .fa{
+	color:grey;
+}
